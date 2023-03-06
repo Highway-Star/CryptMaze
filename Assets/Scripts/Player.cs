@@ -11,7 +11,7 @@ public class Player : MonoBehaviour
     Transform cameraTrans;
     float cameraPitch = 0;
     float gravityValue = Physics.gravity.y;
-    float jumpHeight = -2f;
+    //float jumpHeight = -2f;
 
     float currentYVelocity;
 

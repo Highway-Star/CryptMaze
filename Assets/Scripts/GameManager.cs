@@ -23,7 +23,7 @@ public class GameManager : MonoBehaviour
     {
         //Player Enemy Collision
         isGameOver = true;
-        //ui_GameOverPage.SetActive(true);
+        ui_GameOverPage.SetActive(true);
     }
 
     public void RestartLevel()
